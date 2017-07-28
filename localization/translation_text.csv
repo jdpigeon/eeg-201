@@ -1,53 +1,53 @@
 key,en,fr,es
 ,,,
 //global,//global,//global,//global
-nextLink, NEXT , NEXT  FR, NEXT  ES
-museDisconnectedTitle,Muse Disconnected,Muse Disconnected FR,Muse Disconnected ES
-museDisconnectedDescription,Please reconnect to continue the tutorial.,Please reconnect to continue the tutorial. FR,Please reconnect to continue the tutorial. ES
-closeButton,Close,Close FR,Close ES
+nextLink, NEXT ,PROCHAIN, NEXT  ES
+museDisconnectedTitle,Muse Disconnected,Muse déconnecté,Muse Disconnected ES
+museDisconnectedDescription,Please reconnect to continue the tutorial.,Veuillez reconnecter votre Muse pour continuer.,Please reconnect to continue the tutorial. ES
+closeButton,Close,Fermer,Close ES
 ,,,
 //begin-landing.js,//begin-landing.js,//begin-landing.js,//begin-landing.js
-welcomeEEG101,Welcome to EEG 101,Welcome to EEG 101 FR,Welcome to EEG 101 ES
-tutorialDescription,"At the end of this tutorial, you will have learned how EEG devices can be used to measure the electrical activity of the brain.","At the end of this tutorial, you will have learned how EEG devices can be used to measure the electrical activity of the brain. FR","At the end of this tutorial, you will have learned how EEG devices can be used to measure the electrical activity of the brain. ES"
-getStartedLink, GET STARTED , GET STARTED  FR, GET STARTED  ES
+welcomeEEG101,Welcome to EEG 101,Bienvenue dans EEG 101,Welcome to EEG 101 ES
+tutorialDescription,"At the end of this tutorial, you will have learned how EEG devices can be used to measure the electrical activity of the brain.","À la fin de ce tutoriel, vous aurez appris comment l’EEG peut être utilisée pour mesurer l’activité électrique du cerveau.","At the end of this tutorial, you will have learned how EEG devices can be used to measure the electrical activity of the brain. ES"
+getStartedLink, GET STARTED , COMMENCER, GET STARTED  ES
 ,,,
 //connector-01.js,//connector-01.js,//connector-01.js,//connector-01.js
-step1Title,Step 1,Step 1 FR,Step 1 ES
-musePowerOnWarning,Make sure your Muse is powered on.,Make sure your Muse is powered on. FR,Make sure your Muse is powered on. ES
-museFirstGenWarning,If you are using a first generation Muse you may need to pair your device in bluetooth settings.,If you are using a first generation Muse you may need to pair your device in bluetooth settings. FR,If you are using a first generation Muse you may need to pair your device in bluetooth settings. ES
-connector2Link," OK, IT\'S ON "," OK, IT\'S ON  FR"," OK, IT\'S ON  ES"
+step1Title,Step 1,Étape 1,Step 1 ES
+musePowerOnWarning,Make sure your Muse is powered on.,Veuillez vous assurer que votre Muse est allumé.,Make sure your Muse is powered on. ES
+museFirstGenWarning,If you are using a first generation Muse you may need to pair your device in bluetooth settings.,"Si vous utilisez un Muse de première génération, assurez-vous de l’avoir pairé  dans les paramètres Bluetooth.",If you are using a first generation Muse you may need to pair your device in bluetooth settings. ES
+connector2Link," OK, IT\'S ON ","OK, MUSE CONNECTÉ"," OK, IT\'S ON  ES"
 ,,,
 //connector-02.js,//connector-02.js,//connector-02.js,//connector-02.js
-step2Title,Step 2,Step 2 FR,Step 2 ES
-getStartedLink, GET STARTED , GET STARTED  FR, GET STARTED  ES
-waitMusePair,Wait for your Muse to pair \n with EEG 101...,Wait for your Muse to pair \n with EEG 101... FR,Wait for your Muse to pair \n with EEG 101... ES
+step2Title,Step 2,Étape 2,Step 2 ES
+getStartedLink, GET STARTED ,COMMENCER, GET STARTED  ES
+waitMusePair,Wait for your Muse to pair \n with EEG 101...,Veuillez attendre que votre Muse se connecte à EEG 101...,Wait for your Muse to pair \n with EEG 101... ES
 ,,,
 //connector-03.js,//connector-03.js,//connector-03.js,//connector-03.js
-step3Title,Step 3,Step 3 FR,Step 3 ES
-museFitProperly,Make sure the Muse is properly fitted to your head.,Make sure the Muse is properly fitted to your head. FR,Make sure the Muse is properly fitted to your head. ES
-fitInstructions,Fit the earpieces snugly behind your ears and adjust the headband so that it rests mid forehead. Clear any hair that might prevent the device from making contact with your skin.,Fit the earpieces snugly behind your ears and adjust the headband so that it rests mid forehead. Clear any hair that might prevent the device from making contact with your skin. FR,Fit the earpieces snugly behind your ears and adjust the headband so that it rests mid forehead. Clear any hair that might prevent the device from making contact with your skin. ES
+step3Title,Step 3,Étape 3,Step 3 ES
+museFitProperly,Make sure the Muse is properly fitted to your head.,Veuilles vous assurer que votre Muse est bien ajusté sur votre tête.,Make sure the Muse is properly fitted to your head. ES
+fitInstructions,Fit the earpieces snugly behind your ears and adjust the headband so that it rests mid forehead. Clear any hair that might prevent the device from making contact with your skin.,Placez les manchons derrière vos oreilles et ajustez le bandeau afin qu’il soit placé au milieu de votre front. Déplacez tout cheveu qui pourrait empêcher les capteurs de toucher votre peau.,Fit the earpieces snugly behind your ears and adjust the headband so that it rests mid forehead. Clear any hair that might prevent the device from making contact with your skin. ES
 ,,,
 //slide-01.js,//slide-01.js,//slide-01.js,//slide-01.js
-introductionSlideTitle,INTRODUCTION,INTRODUCTION FR,INTRODUCTION ES
-brainElectricity,Your brain produces electricity. ,Your brain produces electricity.  FR,Your brain produces electricity.  ES
-EEGLink,EEG,EEG FR,EEG ES
-deviceCanDetect," device that you are wearing, we can detect the electrical activity of your brain."," device that you are wearing, we can detect the electrical activity of your brain. FR"," device that you are wearing, we can detect the electrical activity of your brain. ES"
-usingThe,Using the ,Using the  FR,Using the  ES
-tryBlinkingEyes,Try blinking your eyes...,Try blinking your eyes... FR,Try blinking your eyes... ES
-doesSignalChange,Does the signal change?,Does the signal change? FR,Does the signal change? ES
-eyeMovementCreates,Eye movements create ,Eye movements create  FR,Eye movements create  ES
-noiseLink,noise ,noise  FR,noise  ES
-inEEGSignal, in the EEG signal., in the EEG signal. FR, in the EEG signal. ES
-tryThinkingAbout,Try thinking about a cat...,Try thinking about a cat... FR,Try thinking about a cat... ES
-doesSignalChange,Does the signal change?,Does the signal change? FR,Does the signal change? ES
-althoughEEG,"Although EEG can measure overall brain activity, itâ€™s not capable of ","Although EEG can measure overall brain activity, itâ€™s not capable of  FR","Although EEG can measure overall brain activity, itâ€™s not capable of  ES"
-readingMindsLink,reading minds,reading minds FR,reading minds ES
-tryClosingEyes10,Now try closing your eyes for 10 seconds.,Now try closing your eyes for 10 seconds. FR,Now try closing your eyes for 10 seconds. ES
-mayNoticeSignalChange,You may notice a change in your signal due to an increase in ,You may notice a change in your signal due to an increase in  FR,You may notice a change in your signal due to an increase in  ES
-alphaWavesLink,alpha waves.,alpha waves. FR,alpha waves. ES
-whatIsEEGTitle,What exactly is EEG?,What exactly is EEG? FR,What exactly is EEG? ES
-whatIsEEGDescription,"Electroencephalography (EEG) is a technique that measures the electrical activity of the brain with sensors that record fluctuations in voltage at the surface of the skull. The first human electroencephalogram was recorded in 1924 by Hans Berger, a German psychiatrist whose interest in â€˜psychic energyâ€™ led him to experiment with the electrical fields of the brain.","Electroencephalography (EEG) is a technique that measures the electrical activity of the brain with sensors that record fluctuations in voltage at the surface of the skull. The first human electroencephalogram was recorded in 1924 by Hans Berger, a German psychiatrist whose interest in â€˜psychic energyâ€™ led him to experiment with the electrical fields of the brain. FR","Electroencephalography (EEG) is a technique that measures the electrical activity of the brain with sensors that record fluctuations in voltage at the surface of the skull. The first human electroencephalogram was recorded in 1924 by Hans Berger, a German psychiatrist whose interest in â€˜psychic energyâ€™ led him to experiment with the electrical fields of the brain. ES"
-noiseTitle,Noise,Noise FR,Noise ES
+introductionSlideTitle,INTRODUCTION,INTRODUCTION,INTRODUCTION ES
+brainElectricity,Your brain produces electricity. ,Votre cerveau produit de l’électricité.,Your brain produces electricity.  ES
+EEGLink,EEG,EEG,EEG ES
+deviceCanDetect," device that you are wearing, we can detect the electrical activity of your brain.","appareil que vous portez, il est possible de détecter l’activité électrique de votre cerveau."," device that you are wearing, we can detect the electrical activity of your brain. ES"
+usingThe,Using the ,En utilisant l’,Using the  ES
+tryBlinkingEyes,Try blinking your eyes...,Essayez de cligner des yeux...,Try blinking your eyes... ES
+doesSignalChange,Does the signal change?,Est-ce que le signal change?,Does the signal change? ES
+eyeMovementCreates,Eye movements create ,Les mouvements de yeux créent du,Eye movements create  ES
+noiseLink,noise ,bruit,noise  ES
+inEEGSignal, in the EEG signal.,dans les signaux d’EEG., in the EEG signal. ES
+tryThinkingAbout,Try thinking about a cat...,Essayez de penser à un chat...,Try thinking about a cat... ES
+doesSignalChange,Does the signal change?,Est-ce que le signal change?,Does the signal change? ES
+althoughEEG,"Although EEG can measure overall brain activity, itâ€™s not capable of ","Même si l’EEG peut mesurer l’activité électrique générale du cerveau, il ne peut pas ","Although EEG can measure overall brain activity, itâ€™s not capable of  ES"
+readingMindsLink,reading minds,lire les pensées,reading minds ES
+tryClosingEyes10,Now try closing your eyes for 10 seconds.,Essayez maintenant de fermer vos yeux pendant 10 secondes.,Now try closing your eyes for 10 seconds. ES
+mayNoticeSignalChange,You may notice a change in your signal due to an increase in ,Vous remarquerez peut-être un changement dans votre signal dû à une augmentation des,You may notice a change in your signal due to an increase in  ES
+alphaWavesLink,alpha waves.,ondes alpha.,alpha waves. ES
+whatIsEEGTitle,What exactly is EEG?,Qu’est-ce que l’EEG exactement?,What exactly is EEG? ES
+whatIsEEGDescription,"Electroencephalography (EEG) is a technique that measures the electrical activity of the brain with sensors that record fluctuations in voltage at the surface of the skull. The first human electroencephalogram was recorded in 1924 by Hans Berger, a German psychiatrist whose interest in â€˜psychic energyâ€™ led him to experiment with the electrical fields of the brain.",L’électroencéphalographie (EEG) est une technique qui mesure l’activité électrique du cerveau en utilisant des senseurs qui captent les fluctuations de voltage à la surface du crâne. Le premier électroencéphalogramme sur un humain ,"Electroencephalography (EEG) is a technique that measures the electrical activity of the brain with sensors that record fluctuations in voltage at the surface of the skull. The first human electroencephalogram was recorded in 1924 by Hans Berger, a German psychiatrist whose interest in â€˜psychic energyâ€™ led him to experiment with the electrical fields of the brain. ES"
+noiseTitle,Noise,A BCI is a communication channel that allows the brain to  FR,Noise ES
 noiseDescription,"Movement of the eyes (which are electrically charged) and muscle activity produce electrical activity. Thus, blinking, swallowing, and clenching the jaw will all produce noise that can overpower signals originating in the brain. This can make it very difficult to read the EEG. To accurately sense the activity of the brain, movement must be kept to a minimum.","Movement of the eyes (which are electrically charged) and muscle activity produce electrical activity. Thus, blinking, swallowing, and clenching the jaw will all produce noise that can overpower signals originating in the brain. This can make it very difficult to read the EEG. To accurately sense the activity of the brain, movement must be kept to a minimum. FR","Movement of the eyes (which are electrically charged) and muscle activity produce electrical activity. Thus, blinking, swallowing, and clenching the jaw will all produce noise that can overpower signals originating in the brain. This can make it very difficult to read the EEG. To accurately sense the activity of the brain, movement must be kept to a minimum. ES"
 cannotReadMindsTitle,EEG cannot read minds,EEG cannot read minds FR,EEG cannot read minds ES
 cannotReadMindsDescription,"The EEG signal is generated when tens of thousands of brain cells fire in synchrony. Although thinking about a cat produces some change in brain activity, it is too small to affect the large-scale, rhythmic firing of the brain that EEG detects.","The EEG signal is generated when tens of thousands of brain cells fire in synchrony. Although thinking about a cat produces some change in brain activity, it is too small to affect the large-scale, rhythmic firing of the brain that EEG detects. FR","The EEG signal is generated when tens of thousands of brain cells fire in synchrony. Although thinking about a cat produces some change in brain activity, it is too small to affect the large-scale, rhythmic firing of the brain that EEG detects. ES"
