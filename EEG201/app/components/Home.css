@@ -1,0 +1,38 @@
+.container {
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 100px;
+}
+
+.buttonContainer {
+  flex: 2;
+  display: flex;
+  margin: 140px;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 50;
+  height: 50;
+}
+
+.titleBox {
+  flex: 3;
+  align-items: center;
+  justify-content: center;
+}
+
+.bodyText {
+  text-align: center;
+}
+
+.container h2 {
+  font-size: 5rem;
+}
+
+.container a {
+  font-size: 1.4rem;
+}
